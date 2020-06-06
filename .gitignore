@@ -1,0 +1,12 @@
+.gradle
+/build/
+**/out
+**/build
+
+### InteliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+*.class
+/out/
